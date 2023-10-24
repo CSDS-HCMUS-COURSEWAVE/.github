@@ -1,6 +1,12 @@
 # Lưu trữ tài liệu: Khoa học máy tính & Khoa học dữ liệu
 
-**Lưu ý:** Với những người ngoài tổ chức (những người không thuộc thành viên của github organization này) thì sẽ không được vào tài liệu. Mình lập cái tổ chức này chỉ để thống kê và chia sẻ lại tài liệu cho một vài người bạn và chỉ có họ mới vào được mà thôi. Trong tương lai, mình không có dự định chia sẻ bất cứ tài liệu này nằm ở đây cho khách vãng lai.
+## Lưu ý:
+
+Mình lập cái github organization để thống kê và lưu trữ những môn mình đã học trong 4 năm tại trường Đại học Khoa học Tự nhiên - TPHCM. Vì vấn đề về bản quyền cũng như không muốn những tài nguyên mà mình vắt não ra để viết để rồi trở thành bài làm của người khác, mình không có dự định chia sẻ cho ai bây giờ và trong tương lai cũng thế (trừ một vài người bạn mình tin tưởng).
+
+## Các môn cơ sở ngành:
+
+## Các môn chuyên ngành:
 
 **Chuyên ngành**: Công nghệ tri thức.
 
