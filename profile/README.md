@@ -27,3 +27,10 @@ Mình lập cái github organization này để thống kê và lưu trữ nhữ
 
 
 **Chuyên ngành**: Khoa học máy tính.
+
+|Mã môn|Tên môn|Đường dẫn tới tài liệu|
+|CSC14005|Nhập môn học máy|[CSC14005]|
+|CSC14004|Khai thác dữ liệu ứng dụng|[CSC14004]|
+|CSC14006|Nhận dạng|[CSC14006]|
+|CSC14111|Nhập môn phân tích và thiết kế giải thuật|[CSC14111]|
+|CSC14001|Ô-tô-mát và ngôn ngữ hình thức|[CSC14001]|
