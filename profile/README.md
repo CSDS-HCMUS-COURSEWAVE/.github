@@ -2,7 +2,7 @@
 
 ## Lưu ý:
 
-Mình lập cái github organization để thống kê và lưu trữ những môn mình đã học trong 4 năm tại trường Đại học Khoa học Tự nhiên - TPHCM. Vì vấn đề về bản quyền cũng như không muốn những tài nguyên mà mình vắt não ra để viết để rồi trở thành bài làm của người khác, mình không có dự định chia sẻ cho ai bây giờ và trong tương lai cũng thế (trừ một vài người bạn mình tin tưởng).
+Mình lập cái github organization này để thống kê và lưu trữ những môn mình đã học trong 4 năm tại trường Đại học Khoa học Tự nhiên - TPHCM. Vì vấn đề về bản quyền cũng như không muốn những tài nguyên mà mình vắt não ra để viết để rồi trở thành bài làm của người khác, mình không có dự định chia sẻ cho ai bây giờ và trong tương lai cũng thế (trừ một vài người bạn mình tin tưởng).
 
 ## Các môn cơ sở ngành:
 
